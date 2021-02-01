@@ -6,4 +6,4 @@ this is a test project to get familiar with github
 * test 1
 * test 2
 
-![](lavo2.png)
+![](cell.png)
